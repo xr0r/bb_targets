@@ -3,6 +3,7 @@ name: Crawl bugbounty platforms
 on:
   schedule:
     - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   run_and_push:
