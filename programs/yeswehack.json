@@ -51,7 +51,7 @@
         "last_update_at": "2025-09-23T08:05:09+02:00",
         "scopes": [
             {
-                "scope": "*.vfsglobal.(com|co.uk|ca)",
+                "scope": "*.vfsglobal.(com|co.us|ca)",
                 "scope_type": "web-application",
                 "scope_type_name": "Web application",
                 "asset_value": "CRITICAL",
