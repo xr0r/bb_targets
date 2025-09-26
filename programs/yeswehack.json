@@ -1,5 +1,79 @@
 [
     {
+        "title": "Cryptobox",
+        "slug": "cryptobox-bug-bounty",
+        "country": "FR",
+        "activity_area": "CyberSec",
+        "average_first_response_time": 2,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 222,
+        "bounty_reward_min": 100,
+        "bounty_reward_max": 5000,
+        "scopes_count": 3,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "42813fed-12be-4549-9add-2e17d92e3b39",
+            "original_name": "screenshot-2023-01-31-at-15-19-12-ercom-recherche-google.png",
+            "mime_type": "image/png",
+            "size": 31972,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/42813fed-12be-4549-9add-2e17d92e3b39"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "Ercom",
+            "slug": "ercom",
+            "description": "Ercom is a reference French company with 30 years of combined expertise in two key areas: cybersecurity and communication networks. Ercom is part of the Thales Group.",
+            "currency": "EUR",
+            "already_activate_product": true,
+            "logo": {
+                "name": "0891c2559d41a81fa7a8d255c149c909",
+                "original_name": "7e2d9628e83e27f633692576bc72bc8e.png",
+                "mime_type": "image/png",
+                "size": 18974,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/0891c2559d41a81fa7a8d255c149c909"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2025-09-26T11:11:12+02:00",
+        "scopes": [
+            {
+                "scope": "https://bounty.cryptobox.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr",
+                "scope_type": "mobile-application-android",
+                "scope_type_name": "Mobile application Android",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://apps.apple.com/fr/app/cryptobox/id972602802",
+                "scope_type": "mobile-application-ios",
+                "scope_type_name": "Mobile application IOS",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            }
+        ]
+    },
+    {
         "title": "Sant\u00e9 Publique France Bug Bounty Program",
         "slug": "sante-publique-france-bugbounty-public-program",
         "country": "FR",
@@ -1097,7 +1171,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 38,
+        "reports_count": 39,
         "bounty_reward_min": 50,
         "bounty_reward_max": 5000,
         "scopes_count": 1,
@@ -6826,80 +6900,6 @@
                 "scope_type": "api",
                 "scope_type_name": "API",
                 "asset_value": "CRITICAL",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "Cryptobox",
-        "slug": "cryptobox-bug-bounty",
-        "country": "FR",
-        "activity_area": "CyberSec",
-        "average_first_response_time": 2,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 222,
-        "bounty_reward_min": 100,
-        "bounty_reward_max": 5000,
-        "scopes_count": 3,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "42813fed-12be-4549-9add-2e17d92e3b39",
-            "original_name": "screenshot-2023-01-31-at-15-19-12-ercom-recherche-google.png",
-            "mime_type": "image/png",
-            "size": 31972,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/42813fed-12be-4549-9add-2e17d92e3b39"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "Ercom",
-            "slug": "ercom",
-            "description": "Ercom is a reference French company with 30 years of combined expertise in two key areas: cybersecurity and communication networks. Ercom is part of the Thales Group.",
-            "currency": "EUR",
-            "already_activate_product": true,
-            "logo": {
-                "name": "0891c2559d41a81fa7a8d255c149c909",
-                "original_name": "7e2d9628e83e27f633692576bc72bc8e.png",
-                "mime_type": "image/png",
-                "size": 18974,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/0891c2559d41a81fa7a8d255c149c909"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2025-04-07T09:20:49+02:00",
-        "scopes": [
-            {
-                "scope": "https://bounty.cryptobox.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr",
-                "scope_type": "mobile-application-android",
-                "scope_type_name": "Mobile application Android",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://apps.apple.com/fr/app/cryptobox/id972602802",
-                "scope_type": "mobile-application-ios",
-                "scope_type_name": "Mobile application IOS",
-                "asset_value": "MEDIUM",
                 "report_count": null
             }
         ]
