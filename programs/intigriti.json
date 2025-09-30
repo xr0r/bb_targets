@@ -8335,6 +8335,80 @@
         ]
     },
     {
+        "id": "2f9642bb-830b-4756-9cbe-391e44175b8a",
+        "handle": "liferaydxp",
+        "name": "Liferay DXP",
+        "following": false,
+        "minBounty": {
+            "value": 100.0,
+            "currency": "USD"
+        },
+        "maxBounty": {
+            "value": 2000.0,
+            "currency": "USD"
+        },
+        "confidentialityLevel": {
+            "id": 4,
+            "value": "Public"
+        },
+        "status": {
+            "id": 3,
+            "value": "Open"
+        },
+        "type": {
+            "id": 1,
+            "value": "Bug Bounty"
+        },
+        "webLinks": {
+            "detail": "https://app.intigriti.com/auth/dashboard?redirect=/programs/liferay/liferaydxp/detail"
+        },
+        "industry": "Software",
+        "domains": [
+            {
+                "id": "e69ab2ef-b7ef-4d35-be0d-fca25f5ca89e",
+                "type": {
+                    "id": 6,
+                    "value": "Other"
+                },
+                "endpoint": "Liferay DXP 2025.Q3",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": "**Liferay DXP** is a Java based, open source enterprise portal used by businesses to create intranet and extranets.\n\nThe latest Quarterly Release of Liferay DXP 2025.Q3 is DXP 2025.Q3.2.\n\n* [Docker Image](https://hub.docker.com/r/liferay/dxp/tags?page=1&name=2025.q3.2)\n\t* `docker pull liferay/dxp:2025.q3.2`\n* [Documentation](https://learn.liferay.com/w/dxp/index)\n* [Release Notes](https://support.liferay.com/e/release-notes/release-highlights/20004/26014824?r=26014824)\n* Release date: Sep 18, 2025\n\n",
+                "requiredSkills": []
+            },
+            {
+                "id": "6134b48e-0a9f-4d18-a2ab-7268de19d20d",
+                "type": {
+                    "id": 6,
+                    "value": "Other"
+                },
+                "endpoint": "Liferay DXP 2025.Q1",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": "**Liferay DXP** is a Java based, open source enterprise portal used by businesses to create intranet and extranets.\n\nThe latest LTS Quarterly Release of Liferay DXP 2025.Q1 is DXP 2025.Q1.17-LTS.\n\n* [Docker Image](https://hub.docker.com/r/liferay/dxp/tags?page=1&name=2025.q1.17-lts)\n\t* `docker pull liferay/dxp:2025.q1.17-lts`\n* [Documentation](https://learn.liferay.com/w/dxp/index)\n* [Release Notes](https://support.liferay.com/e/release-notes/release-highlights/20004/25734713?r=25734713)\n* Release date: Sep 6, 2025\n\n",
+                "requiredSkills": []
+            },
+            {
+                "id": "e7ea12db-8a01-4747-8fb3-765b39beda7a",
+                "type": {
+                    "id": 6,
+                    "value": "Other"
+                },
+                "endpoint": "Liferay DXP 2024.Q1",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": "**Liferay DXP** is a Java based, open source enterprise portal used by businesses to create intranet and extranets.\n\nThe latest LTS Quarterly Release of Liferay DXP 2024.Q1 is DXP 2024.Q1.21.\n\n* [Docker Image](https://hub.docker.com/r/liferay/dxp/tags?page=1&name=2024.q1.21)\n\t* `docker pull liferay/dxp:2024.q1.21`\n* [Documentation](https://learn.liferay.com/w/dxp/index)\n* [Release Notes](https://support.liferay.com/release-notes/2024-q1)\n* Release date: Sep 16, 2025\n\n",
+                "requiredSkills": []
+            }
+        ]
+    },
+    {
         "id": "30a91ad4-fb06-4f0c-ae96-7f5167a840db",
         "handle": "vinted-bugbountyprogram",
         "name": "Vinted - Bug Bounty Program",
