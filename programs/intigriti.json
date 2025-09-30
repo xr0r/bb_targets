@@ -14116,7 +14116,20 @@
                     "value": "Tier 1"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    },
+                    {
+                        "id": "supply_chain",
+                        "name": "Supply Chain"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "60452904-89da-4d25-839e-566d6af4ed42",
@@ -14130,7 +14143,12 @@
                     "value": "Tier 1"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "34a99085-6d42-404a-be50-6a2e4c48f9f6",
@@ -14172,7 +14190,16 @@
                     "value": "No Bounty"
                 },
                 "description": "Grafana Labs developed [plugins](https://grafana.com/grafana/plugins/all-plugins/?signature=grafana) not installed by default are accepted, but not eligible for a bounty. ",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "supply_chain",
+                        "name": "Supply Chain"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "f25edc5a-6639-4351-a1c9-005693b83d07",
@@ -14200,7 +14227,20 @@
                     "value": "Out Of Scope"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "ai_llm",
+                        "name": "AI / LLM"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             }
         ]
     },
