@@ -28012,7 +28012,20 @@
                     "value": "Tier 2"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    },
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    }
+                ]
             },
             {
                 "id": "36b68cb3-df95-4b43-a60d-1034a259a1a5",
@@ -28053,7 +28066,20 @@
                     "value": "Tier 2"
                 },
                 "description": "This asset follows the same testing guidelines as `cloud.digitalocean.com`.\n\n* While performing your research, please limit the scope of testing to only the accounts or resources that are owned by you.\n* If you discover a vulnerability that could allow you to bypass existing controls and gain access to other accounts, **please do not take any further action** against those accounts or data that are not owned by you.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "53f03f9c-f8ce-4376-8430-7e45e4c84be9",
@@ -28067,7 +28093,20 @@
                     "value": "Tier 2"
                 },
                 "description": "A daemon that helps collect system metrics from droplets.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "network_infrastructure",
+                        "name": "Network / Infrastructure"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "00fa5b59-f038-4c49-99da-bd64e621f43e",
@@ -28081,7 +28120,16 @@
                     "value": "Tier 2"
                 },
                 "description": "The official command line interface for the DigitalOcean API.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "a5d2b4cf-233d-461a-a402-3d02de483266",
@@ -28095,7 +28143,24 @@
                     "value": "Tier 2"
                 },
                 "description": "A daemon that enables web console access on droplets",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    },
+                    {
+                        "id": "network_infrastructure",
+                        "name": "Network / Infrastructure"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "b60bcdcf-3cfd-4df1-986b-53933f128212",
@@ -28109,7 +28174,16 @@
                     "value": "Tier 2"
                 },
                 "description": "golang-only network block device client",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "network_infrastructure",
+                        "name": "Network / Infrastructure"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "1328a39c-4d53-4934-ba8c-1ef49a49c471",
@@ -28123,7 +28197,20 @@
                     "value": "Tier 2"
                 },
                 "description": "DigitalOcean's official Terraform provider.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "network_infrastructure",
+                        "name": "Network / Infrastructure"
+                    },
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "b25618fb-c259-40b7-a006-891fb30db2a2",
@@ -28137,7 +28224,24 @@
                     "value": "Tier 2"
                 },
                 "description": "Note that marketplace 1-click apps and add-ons are maintained by our partnered vendors and are out of scope. Security issues against these components of the marketplace are not in the scope of this program and ineligible for bounty rewards, but we are happy to help facilitate communications to the application owners.\n\nPlease reach out to us at security@digitalocean.com for facilitation.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    },
+                    {
+                        "id": "supply_chain",
+                        "name": "Supply Chain"
+                    }
+                ]
             },
             {
                 "id": "940e5357-57f9-4bd3-8325-d65542e6c5a9",
@@ -28151,7 +28255,20 @@
                     "value": "Tier 2"
                 },
                 "description": "SnapShooter is a cloud backup and recovery solution",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "a04c55a1-def4-4bc2-8a4a-362d881e0038",
@@ -28165,7 +28282,16 @@
                     "value": "Tier 2"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "700f5797-30a5-4d11-9678-7f7c913baf45",
@@ -28277,7 +28403,12 @@
                     "value": "Tier 3"
                 },
                 "description": "Markdown plugin run against all user-submitted content on https://digitalocean.com/community. ",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "source_code_review",
+                        "name": "Source Code Review"
+                    }
+                ]
             },
             {
                 "id": "e028969b-4bc4-4df3-82b7-a947b6248135",
@@ -28291,7 +28422,24 @@
                     "value": "No Bounty"
                 },
                 "description": "We do not currently offer bounty rewards for findings related to the `paperspace.com` domain or associated sub-domains.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "ai_llm",
+                        "name": "AI / LLM"
+                    },
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "00921202-f970-4c64-ac41-301a3380cfbd",
@@ -28389,7 +28537,24 @@
                     "value": "Out Of Scope"
                 },
                 "description": "The marketplace applications and add-ons are maintained by our partnered vendors. Security issues are not in the scope of this program and ineligible for bounty rewards, but we are happy to help facilitate communications to the application owners.\nPlease reach out to us at security@digitalocean.com for facilitation.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "supply_chain",
+                        "name": "Supply Chain"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "89e03b9f-1d26-4967-9345-8f9fd2df5a9a",
