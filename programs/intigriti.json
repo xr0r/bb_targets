@@ -23087,7 +23087,16 @@
                     "value": "Tier 2"
                 },
                 "description": "Cloudways website is the corporate website that is often the initial touchpoint for a significant number of interactions between visitors, customers and Cloudways. It offers product details and related corporate information to visitors.\n",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "28ecbc8a-ebb2-4a0d-8ae6-d5d7a4853bf8",
@@ -23101,7 +23110,12 @@
                     "value": "Tier 3"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             }
         ]
     },
@@ -28051,6 +28065,14 @@
                     {
                         "id": "web_hacking",
                         "name": "Web Hacking"
+                    },
+                    {
+                        "id": "ai_llm",
+                        "name": "AI / LLM"
+                    },
+                    {
+                        "id": "hypervisors_virtualization",
+                        "name": "Hypervisors / Virtualization"
                     }
                 ]
             },
@@ -28319,7 +28341,16 @@
                     "value": "Tier 3"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "37675f2c-ab50-4263-bbe6-b83b73b59be6",
@@ -28333,7 +28364,16 @@
                     "value": "Tier 3"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "8dc846ac-a9f7-4623-9fad-06d2bcd7105b",
@@ -28347,7 +28387,16 @@
                     "value": "Tier 3"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "bdfdba49-4f29-4c99-a069-00f20a81c44e",
@@ -28361,7 +28410,16 @@
                     "value": "Tier 3"
                 },
                 "description": "Company shortlink service",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "2553f467-4dbe-4baa-9dd3-5c3b94d0c5f5",
@@ -28375,7 +28433,16 @@
                     "value": "Tier 3"
                 },
                 "description": "API for hacktoberfest.com",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "d13e6da8-de2c-41a3-a045-ec877cb4dd7b",
@@ -28389,7 +28456,16 @@
                     "value": "Tier 3"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "b9245781-2b1f-4886-884d-56b1ae915584",
@@ -28407,6 +28483,10 @@
                     {
                         "id": "source_code_review",
                         "name": "Source Code Review"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
                     }
                 ]
             },
@@ -28481,7 +28561,20 @@
                     "value": "Out Of Scope"
                 },
                 "description": "Customers' resources are hosted underneath this domain, so the entire domain should be considered out-of-scope.\n\nAny Functions created inside your own account on this domain are considered in-scope. Use the cloud.digitalocean.com asset in that case.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    },
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    }
+                ]
             },
             {
                 "id": "93f71612-7d52-421a-88b5-f4b0aceac864",
