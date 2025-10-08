@@ -20005,8 +20005,8 @@
                 },
                 "endpoint": "technik.autobild.de",
                 "tier": {
-                    "id": 5,
-                    "value": "Out Of Scope"
+                    "id": 2,
+                    "value": "Tier 3"
                 },
                 "description": null,
                 "requiredSkills": []
@@ -20019,8 +20019,8 @@
                 },
                 "endpoint": "technik.beta.autobild.de",
                 "tier": {
-                    "id": 5,
-                    "value": "Out Of Scope"
+                    "id": 2,
+                    "value": "Tier 3"
                 },
                 "description": null,
                 "requiredSkills": []
