@@ -24973,6 +24973,20 @@
                 },
                 "description": null,
                 "requiredSkills": []
+            },
+            {
+                "id": "5d77fbe5-a23d-4826-90b7-55bbb0d114ee",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "adtechnology.axelspringer.com",
+                "tier": {
+                    "id": 5,
+                    "value": "Out Of Scope"
+                },
+                "description": "This asset falls under the Axel Springer National Media & Tech bug bounty program. We kindly ask that you report any findings related to this asset through that program.",
+                "requiredSkills": []
             }
         ]
     },
