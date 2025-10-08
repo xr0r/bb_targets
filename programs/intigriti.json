@@ -11838,7 +11838,7 @@
     {
         "id": "4d41a636-c811-4757-8fd9-007d7f18e212",
         "handle": "excoscalebugbounty",
-        "name": "Excoscale Bug Bounty",
+        "name": "Exoscale Bug Bounty",
         "following": false,
         "minBounty": {
             "value": 50.0,
