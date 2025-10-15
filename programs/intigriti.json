@@ -21348,7 +21348,7 @@
             "currency": "EUR"
         },
         "maxBounty": {
-            "value": 2000.0,
+            "value": 3000.0,
             "currency": "EUR"
         },
         "confidentialityLevel": {
@@ -21407,10 +21407,10 @@
                 },
                 "endpoint": "www.odoo.com",
                 "tier": {
-                    "id": 5,
-                    "value": "Out Of Scope"
+                    "id": 4,
+                    "value": "Tier 1"
                 },
-                "description": "only test vulnerabilities on your own databases/instances or on the provided testing resources",
+                "description": "[Odoo.com](https://www.odoo.com) hosts a production Odoo Enterprise Edition.\n\nOnly vulnerabilities that are specific to the odoo.com production deployment \u2014 i.e., caused by odoo.com\u2013specific configuration, integrations, tenant isolation, customizations, or production-only services \u2014 are eligible for Tier 1.\n\nGeneric vulnerabilities in Odoo core or issues reproducible on Community/Enterprise, runbot, demo.odoo.com or self-hosted installs belong to Tier 2 and should be reported under the Tier 2 program. Even if a generic Tier 2 issue also appears on odoo.com, it will be triaged as Tier 2 unless the researcher demonstrates an odoo.com\u2013specific impact not present in Tier 2 environments.\n\nBear in mind our [Acceptable Use Policy](https://www.odoo.com/acceptable-use).\n\nYou can freely create a user on [Odoo.com](https://www.odoo.com). Use your @intigriti.me address for the registration.",
                 "requiredSkills": [
                     {
                         "id": "cloud_hacking",
