@@ -25322,6 +25322,20 @@
         "industry": "Energy, Utilities & Waste",
         "domains": [
             {
+                "id": "a97a691b-238c-4fa2-9ffc-0199711d0cba",
+                "type": {
+                    "id": 7,
+                    "value": "Wildcard"
+                },
+                "endpoint": "*.ec.ovotech.org.uk",
+                "tier": {
+                    "id": 5,
+                    "value": "Out Of Scope"
+                },
+                "description": null,
+                "requiredSkills": []
+            },
+            {
                 "id": "a84154ba-0b88-4ff3-8ffa-8900f8ae695a",
                 "type": {
                     "id": 1,
