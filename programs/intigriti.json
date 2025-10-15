@@ -21341,7 +21341,7 @@
     {
         "id": "9745f974-3e85-40d3-aa9e-2d492245ad88",
         "handle": "odoobb",
-        "name": "Odoo 18.0 Bug Bounty program",
+        "name": "Odoo 19.0 Bug Bounty program",
         "following": false,
         "minBounty": {
             "value": 100.0,
@@ -21374,7 +21374,7 @@
                     "id": 6,
                     "value": "Other"
                 },
-                "endpoint": " Odoo 18.0 (Community and Enterprise edition)",
+                "endpoint": " Odoo 19.0 (Community and Enterprise edition)",
                 "tier": {
                     "id": 3,
                     "value": "Tier 2"
