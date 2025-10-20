@@ -1,5 +1,93 @@
 [
     {
+        "title": "Contentsquare Bug Bounty Program",
+        "slug": "contentsquare-bug-bounty-program",
+        "country": "FR",
+        "activity_area": "CyberSec",
+        "average_first_response_time": 1,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 270,
+        "bounty_reward_min": 0,
+        "bounty_reward_max": 2500,
+        "scopes_count": 5,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "62aa4681-494d-438c-b415-56e86bbcad25",
+            "original_name": "Screenshot 2025-04-07 at 23.38.56.png",
+            "mime_type": "image/png",
+            "size": 15211,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/62aa4681-494d-438c-b415-56e86bbcad25"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "Contentsquare",
+            "slug": "contentsquare",
+            "description": "UX Analytics",
+            "currency": "EUR",
+            "already_activate_product": true,
+            "logo": {
+                "name": "618d1e69-b739-4e9c-906b-8dd4a53dbd41",
+                "original_name": "1648047227139.jpeg",
+                "mime_type": "image/jpeg",
+                "size": 8409,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/618d1e69-b739-4e9c-906b-8dd4a53dbd41"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2025-10-20T17:58:05+02:00",
+        "scopes": [
+            {
+                "scope": "*.contentsquare.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://mobile-production.content-square.net/",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://m.csqtrk.net",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://s.contentsquare.net",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "Contentsquare SDK (cf : Program Description)",
+                "scope_type": "application",
+                "scope_type_name": "Application",
+                "asset_value": "LOW",
+                "report_count": null
+            }
+        ]
+    },
+    {
         "title": "Deezer Bug Bounty Program",
         "slug": "deezer-bug-bounty-program-2019",
         "country": "FR",
@@ -1115,7 +1203,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 1568,
+        "reports_count": 1569,
         "bounty_reward_min": 100,
         "bounty_reward_max": 10000,
         "scopes_count": 11,
@@ -7285,11 +7373,11 @@
             "currency": "EUR",
             "already_activate_product": true,
             "logo": {
-                "name": null,
-                "original_name": null,
-                "mime_type": null,
-                "size": null,
-                "url": null
+                "name": "b7121751-2fd7-472b-a2c6-eeb18bbd4dd6",
+                "original_name": "28fe1938-d31c-4812-9d0a-5f48d04c8a1d.png",
+                "mime_type": "image/png",
+                "size": 13832,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/b7121751-2fd7-472b-a2c6-eeb18bbd4dd6"
             }
         },
         "hunter_audience": null,
@@ -7430,94 +7518,6 @@
                 "scope": "Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter",
                 "scope_type": "other",
                 "scope_type_name": "Other",
-                "asset_value": "LOW",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "Contentsquare Bug Bounty Program",
-        "slug": "contentsquare-bug-bounty-program",
-        "country": "FR",
-        "activity_area": "CyberSec",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 270,
-        "bounty_reward_min": 0,
-        "bounty_reward_max": 2500,
-        "scopes_count": 5,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "62aa4681-494d-438c-b415-56e86bbcad25",
-            "original_name": "Screenshot 2025-04-07 at 23.38.56.png",
-            "mime_type": "image/png",
-            "size": 15211,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/62aa4681-494d-438c-b415-56e86bbcad25"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "Contentsquare",
-            "slug": "contentsquare",
-            "description": "UX Analytics",
-            "currency": "EUR",
-            "already_activate_product": true,
-            "logo": {
-                "name": "618d1e69-b739-4e9c-906b-8dd4a53dbd41",
-                "original_name": "1648047227139.jpeg",
-                "mime_type": "image/jpeg",
-                "size": 8409,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/618d1e69-b739-4e9c-906b-8dd4a53dbd41"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2025-03-24T16:38:04+01:00",
-        "scopes": [
-            {
-                "scope": "*.contentsquare.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://mobile-production.content-square.net/",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://m.csqtrk.net",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://s.contentsquare.net",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "Contentsquare SDK (cf : Program Description)",
-                "scope_type": "application",
-                "scope_type_name": "Application",
                 "asset_value": "LOW",
                 "report_count": null
             }
