@@ -4740,8 +4740,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 4,
-            "value": "Suspended"
+            "id": 3,
+            "value": "Open"
         },
         "type": {
             "id": 1,
@@ -15116,6 +15116,20 @@
                     "value": "Tier 3"
                 },
                 "description": "Test environment for our billing portal",
+                "requiredSkills": []
+            },
+            {
+                "id": "2bb1d47a-b60d-478c-bef1-76cfc68557e2",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "https://auth2.pdq.tools/dev/mailbox",
+                "tier": {
+                    "id": 5,
+                    "value": "Out Of Scope"
+                },
+                "description": null,
                 "requiredSkills": []
             },
             {
