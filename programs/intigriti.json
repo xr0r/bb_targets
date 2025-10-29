@@ -23842,7 +23842,12 @@
                     "value": "No Bounty"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "c520ba12-7b73-453a-87e9-5ca1e814c6d3",
@@ -32246,6 +32251,10 @@
                     {
                         "id": "web_hacking",
                         "name": "Web Hacking"
+                    },
+                    {
+                        "id": "api",
+                        "name": "API"
                     }
                 ]
             },
