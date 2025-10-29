@@ -4964,7 +4964,12 @@
                     "value": "Tier 2"
                 },
                 "description": "Mathem iOS app",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "mobile_hacking",
+                        "name": "Mobile Hacking"
+                    }
+                ]
             },
             {
                 "id": "197b603a-6d2b-46c2-ab41-b16c70b3561c",
@@ -4978,7 +4983,12 @@
                     "value": "Tier 2"
                 },
                 "description": "Oda android app",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "mobile_hacking",
+                        "name": "Mobile Hacking"
+                    }
+                ]
             },
             {
                 "id": "e8057e8b-415f-4b43-bc16-5fbdb6c56049",
@@ -4992,7 +5002,16 @@
                     "value": "Tier 2"
                 },
                 "description": "The main shop and brand in Sweden.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "95430c8e-3876-4fa2-a7f6-b53cb513dd5c",
@@ -5006,7 +5025,16 @@
                     "value": "Tier 2"
                 },
                 "description": "The main shop used in Norway.",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "4e618c42-fe4c-4f52-80b5-dc4b27096e91",
@@ -5020,7 +5048,12 @@
                     "value": "Tier 2"
                 },
                 "description": "The Oda android app",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "mobile_hacking",
+                        "name": "Mobile Hacking"
+                    }
+                ]
             },
             {
                 "id": "4021567f-803c-4577-9c06-e2f23adcaab4",
@@ -5034,7 +5067,12 @@
                     "value": "Tier 2"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "mobile_hacking",
+                        "name": "Mobile Hacking"
+                    }
+                ]
             },
             {
                 "id": "244c67c6-985f-4e98-9521-2b38dfc0eab5",
@@ -5048,7 +5086,12 @@
                     "value": "Tier 3"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             },
             {
                 "id": "7d314335-120c-4f4f-a91a-240a0fad0c48",
@@ -5062,7 +5105,24 @@
                     "value": "Tier 3"
                 },
                 "description": "Should mostly be internal services",
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "cloud_hacking",
+                        "name": "Cloud Hacking"
+                    },
+                    {
+                        "id": "api",
+                        "name": "API"
+                    },
+                    {
+                        "id": "network_infrastructure",
+                        "name": "Network / Infrastructure"
+                    },
+                    {
+                        "id": "web_hacking",
+                        "name": "Web Hacking"
+                    }
+                ]
             }
         ]
     },
