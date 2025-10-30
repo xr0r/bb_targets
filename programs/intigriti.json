@@ -25173,6 +25173,66 @@
         ]
     },
     {
+        "id": "c45fe6df-1e31-4701-8e75-e9f01919ea20",
+        "handle": "nvidiavdp",
+        "name": "NVIDIA Vulnerability Disclosure Program",
+        "following": false,
+        "minBounty": {
+            "value": 0.0,
+            "currency": "USD"
+        },
+        "maxBounty": {
+            "value": 0.0,
+            "currency": "USD"
+        },
+        "confidentialityLevel": {
+            "id": 4,
+            "value": "Public"
+        },
+        "status": {
+            "id": 3,
+            "value": "Open"
+        },
+        "type": {
+            "id": 1,
+            "value": "Bug Bounty"
+        },
+        "webLinks": {
+            "detail": "https://app.intigriti.com/auth/dashboard?redirect=/programs/nvidia/nvidiavdp/detail"
+        },
+        "industry": "Software",
+        "domains": [
+            {
+                "id": "d49cf54d-a7d3-4e8d-a3db-7033a0f2b73c",
+                "type": {
+                    "id": 6,
+                    "value": "Other"
+                },
+                "endpoint": "All NVIDIA assets are in scope! Including NVIDIA.com",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": null,
+                "requiredSkills": []
+            },
+            {
+                "id": "f8b03186-ecc6-4e3c-9872-3ac8c4988f6b",
+                "type": {
+                    "id": 6,
+                    "value": "Other"
+                },
+                "endpoint": "Third-party systems or domains referencing NVIDIA, non-secure error reporting 3rd party vulns already disclosed",
+                "tier": {
+                    "id": 5,
+                    "value": "Out Of Scope"
+                },
+                "description": "Before initiating any testing or submitting a report, please ensure that the asset in question is genuinely owned or operated by NVIDIA. Descriptive phrases such as \u201ccompatible with NVIDIA GPU\u201d do not constitute confirmation of NVIDIA\u2019s ownership or control. When in doubt, we strongly encourage you to verify the asset's ownership through the program team to avoid unintentional testing of third-party systems.\n",
+                "requiredSkills": []
+            }
+        ]
+    },
+    {
         "id": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
         "handle": "arkanenetwork",
         "name": "Venly",
