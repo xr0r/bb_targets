@@ -2136,8 +2136,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 3,
-            "value": "Open"
+            "id": 4,
+            "value": "Suspended"
         },
         "type": {
             "id": 1,
@@ -8367,7 +8367,7 @@
                     "id": 1,
                     "value": "No Bounty"
                 },
-                "description": "Any domains or services related to ReadID by Signicat as a brand",
+                "description": "Any domains or services related to our ReadID product",
                 "requiredSkills": []
             },
             {
