@@ -4319,7 +4319,7 @@
                     "id": 3,
                     "value": "Tier 2"
                 },
-                "description": "XS4 Com is our Intercom solution allowing users to receive video calls when someone is at their door, they can even unlock the door for them. XS4 Com integrates with various other Salto locking solutions. Your test site will be setup with a dummy integration. \n\nThis is the \"indoor\" app. This app is used by intercom administrators and to a lesser extent tenants living in the building. Administrators can administrate all aspects of the application, tenants can receive calls. Tenants will typically receive calls using the mobile application instead of the web app.",
+                "description": "XS4 Com is our Intercom solution allowing users to receive video calls when someone is at their door, they can even unlock the door for them. XS4 Com integrates with various other Salto locking solutions. Your test site will be setup with a dummy integration. \n\nThis is the \"indoor\" app. This app is used by intercom administrators and to a lesser extent tenants living in the building. Administrators can administrate all aspects of the application, tenants can receive calls. Tenants will typically receive calls using the mobile application instead of the web app.\n\nLearn more about how the app is used by browsing our manual https://support.saltosystems.com/xs4com/.",
                 "requiredSkills": []
             },
             {
@@ -4333,7 +4333,7 @@
                     "id": 3,
                     "value": "Tier 2"
                 },
-                "description": "This is the outdoor app of the XS4 Com, the part that your guest would see if they scanned an XS4Com QR code or interacted with the hardware version. It is used to make calls to residents of a building outfitted with XS4 Com.\n\nThe app requires a UUID appended at the end, we will supply a UUID when we create your XS4 Com test setup. \n\nExample: https://outdoor-acc.xs4com.app/#/00000000-0000-0000-0000-000000000000\n\n**Note: A user must sign into either the mobile application or the web application to show in the outdoor app. The user must be a resident in at least one XS4 Com site as well as subscribed**",
+                "description": "This is the outdoor app of the XS4 Com, the part that your guest would see if they scanned an XS4Com QR code or interacted with the hardware version. It is used to make calls to residents of a building outfitted with XS4 Com.\n\nThe app requires a UUID appended at the end, we will supply a UUID when we create your XS4 Com test setup. \n\nExample: https://outdoor-acc.xs4com.app/#/00000000-0000-0000-0000-000000000000\n\n**Note: A user must sign into either the mobile application or the web application to show in the outdoor app. The user must be a resident in at least one XS4 Com site as well as subscribed**\n\nLearn more about how the app is used by browsing our manual https://support.saltosystems.com/xs4com/.",
                 "requiredSkills": [
                     {
                         "id": "api",
@@ -12525,8 +12525,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 4,
-            "value": "Suspended"
+            "id": 3,
+            "value": "Open"
         },
         "type": {
             "id": 1,
