@@ -1,708 +1,5 @@
 [
     {
-        "title": "Programme de prime aux bogues du Gouvernement du Qu\u00e9bec",
-        "slug": "programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
-        "country": "CA",
-        "activity_area": "Government",
-        "average_first_response_time": 2,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 564,
-        "bounty_reward_min": 50,
-        "bounty_reward_max": 3000,
-        "scopes_count": 2,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "1f9e2bda-45d4-4ba7-8e33-c6ee3e9709a2",
-            "original_name": "qc.png",
-            "mime_type": "image/png",
-            "size": 23634,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/1f9e2bda-45d4-4ba7-8e33-c6ee3e9709a2"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "MCN",
-            "slug": "mcn",
-            "description": "Minist\u00e8re de la Cybers\u00e9curit\u00e9 et du Num\u00e9rique",
-            "currency": "USD",
-            "already_activate_product": true,
-            "logo": {
-                "name": "0116356e-4aab-4c4f-b4c1-6eae26592751",
-                "original_name": "6e03687c-424e-48f1-8df2-c13ba8afb8ca.png",
-                "mime_type": "image/png",
-                "size": 23634,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/0116356e-4aab-4c4f-b4c1-6eae26592751"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-06-10T09:31:54+02:00",
-        "scopes": [
-            {
-                "scope": "*.cyber.gouv.qc.ca/",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://auth-ywh.it.authentification.si.gouv.qc.ca/",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity",
-        "slug": "cybermalveillance-gouv-fr-sensibilization-prevention-and-support-in-terms-of-cybersecurity",
-        "country": "FR",
-        "activity_area": "Tech - Other",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 223,
-        "bounty_reward_min": 50,
-        "bounty_reward_max": 2000,
-        "scopes_count": 1,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "4ea4666a-5d5a-4065-aec0-c6eaec917b94",
-            "original_name": "capture-d-ecran-de-2021-10-29-14-15-06.png",
-            "mime_type": "image/png",
-            "size": 4374,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/4ea4666a-5d5a-4065-aec0-c6eaec917b94"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "CYBERMALVEILLANCE.GOUV.FR",
-            "slug": "acyma",
-            "description": "Cybermalveillance.gouv.fr is an initiative of the French Government, launched in 2017, to respond to the uprising number of cyber-malicious-acts in France.",
-            "currency": "EUR",
-            "already_activate_product": true,
-            "logo": {
-                "name": "b1264f8e8151d994bb3e6df51e956357",
-                "original_name": "logo-acyma2.png",
-                "mime_type": "image/png",
-                "size": 19953,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/b1264f8e8151d994bb3e6df51e956357"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-06-09T12:07:55+02:00",
-        "scopes": [
-            {
-                "scope": "https://pprd.cybermalveillance.gouv.fr",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "Swiss Post - E-Voting",
-        "slug": "swiss-post-evoting",
-        "country": "CH",
-        "activity_area": "Transportation",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 1339,
-        "bounty_reward_min": 100,
-        "bounty_reward_max": 230000,
-        "scopes_count": 4,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "da96b57b-b30c-4c87-9f0f-661e7945d869",
-            "original_name": "Post_Logo_digital_RGB (1).png",
-            "mime_type": "image/png",
-            "size": 12204,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/da96b57b-b30c-4c87-9f0f-661e7945d869"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "Swiss Post",
-            "slug": "swiss-post",
-            "description": "Bug Bounty Post - Securing Digital Trust",
-            "currency": "EUR",
-            "already_activate_product": true,
-            "logo": {
-                "name": "6dc5820f-f66e-44f4-a34f-359295db4bc7",
-                "original_name": "Post_Logo_digital_RGB300.png",
-                "mime_type": "image/png",
-                "size": 3801,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/6dc5820f-f66e-44f4-a34f-359295db4bc7"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-06-08T14:21:21+02:00",
-        "scopes": [
-            {
-                "scope": "Source Code",
-                "scope_type": "other",
-                "scope_type_name": "Other",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "System Specification",
-                "scope_type": "other",
-                "scope_type_name": "Other",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "Scenarios with Special Bounties",
-                "scope_type": "other",
-                "scope_type_name": "Other",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "Protocol of the Swiss Post Voting System",
-                "scope_type": "other",
-                "scope_type_name": "Other",
-                "asset_value": "HIGH",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "Pine Labs Bug Bounty Program",
-        "slug": "pine-labs-bug-bounty-program",
-        "country": "IN",
-        "activity_area": "Tech - Other",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 606,
-        "bounty_reward_min": 0,
-        "bounty_reward_max": 1000,
-        "scopes_count": 22,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "599499f2-1770-4d00-8b67-9111cc6c55f2",
-            "original_name": "pinelabs_logo.png",
-            "mime_type": "image/png",
-            "size": 2368,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/599499f2-1770-4d00-8b67-9111cc6c55f2"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "Pine Labs Pvt Ltd",
-            "slug": "pine-labs-pvt-ltd",
-            "description": "Payment Services for Retail Merchant",
-            "currency": "USD",
-            "already_activate_product": true,
-            "logo": {
-                "name": "6e236e18-fa57-42d0-be2e-588038dd22cc",
-                "original_name": "pinelabs_logo.png",
-                "mime_type": "image/png",
-                "size": 2368,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/6e236e18-fa57-42d0-be2e-588038dd22cc"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-06-08T07:53:43+02:00",
-        "scopes": [
-            {
-                "scope": "https://billingserver.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "dashboard.pluralonline.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "https://lounge.pinelabs.com/loungeui/login",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "https://pinepgconsole.in:9099",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "analytics.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://myplutus.pinelabs.my",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "trm.pinepaymentsolutions.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://trm.pinelabs.ae",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://www.letspaylater.ph",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://credit.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz",
-                "scope_type": "mobile-application-android",
-                "scope_type_name": "Mobile application Android",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://emistores.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://www.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://www.pinelabs.my",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://www.pinelabs.ae",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://www.pinelabs.us",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://board.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "https://nbs.pinelabs.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "https://api.pluralonline.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://api.pluralpay.in",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://pinepg.in",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://pluralcheckout.pinepg.in",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "GOJEK - Public Bounty Program",
-        "slug": "gojek-bug-bounty-program",
-        "country": "ID",
-        "activity_area": "Tech - Other",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": false,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 705,
-        "bounty_reward_min": 5,
-        "bounty_reward_max": 5000,
-        "scopes_count": 12,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "dde1545a-ae6f-4763-99ee-4bc41824d97c",
-            "original_name": "gojek_logo.png",
-            "mime_type": "image/png",
-            "size": 37450,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/dde1545a-ae6f-4763-99ee-4bc41824d97c"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "PT GoTo Gojek Tokopedia Tbk",
-            "slug": "pt-goto",
-            "description": "GoTo Group is the largest digital ecosystem in Indonesia, with a mission to \u201cempower progress\u201d by offering technology infrastructure and solutions that help everyone to access and thrive in the digital economy. GoTo\u2019s ecosystem comprises of on-demand transport, e-commerce, food and grocery delivery, logistics and fulfillment, and financial services through the Gojek, Tokopedia and GoTo Financial platforms.",
-            "currency": "USD",
-            "already_activate_product": true,
-            "logo": {
-                "name": "3914a3c5-fc5b-49c1-999d-2e878290ea73",
-                "original_name": "pt_goto_gojek_tokopedia_business_unit_logo_final.png",
-                "mime_type": "image/png",
-                "size": 10535,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/3914a3c5-fc5b-49c1-999d-2e878290ea73"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-06-08T05:43:25+02:00",
-        "scopes": [
-            {
-                "scope": "*.gojekapi.com",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "api.gojek.co.id",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://play.google.com/store/apps/details?id=com.gojek.app",
-                "scope_type": "mobile-application-android",
-                "scope_type_name": "Mobile application Android",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://apps.apple.com/id/app/gojek/id944875099",
-                "scope_type": "mobile-application-ios",
-                "scope_type_name": "Mobile application IOS",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "gofood.co.id",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "api.gobiz.co.id",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "*.gofood.co.id",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.gobiz.co.id",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "portal.gofoodmerchant.co.id",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "*.gojek.com",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.golabs.io",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.gofoodmerchant.co.id",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "GoTo Financial - Public Bounty Program",
-        "slug": "goto-financial-public-bounty-program",
-        "country": "ID",
-        "activity_area": "Tech - Other",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": false,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 583,
-        "bounty_reward_min": 5,
-        "bounty_reward_max": 7000,
-        "scopes_count": 14,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "7a85ff6f-bd79-4164-ac5b-99c179ad7e87",
-            "original_name": "gtf_logo.png",
-            "mime_type": "image/png",
-            "size": 31801,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/7a85ff6f-bd79-4164-ac5b-99c179ad7e87"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "PT GoTo Gojek Tokopedia Tbk",
-            "slug": "pt-goto",
-            "description": "GoTo Group is the largest digital ecosystem in Indonesia, with a mission to \u201cempower progress\u201d by offering technology infrastructure and solutions that help everyone to access and thrive in the digital economy. GoTo\u2019s ecosystem comprises of on-demand transport, e-commerce, food and grocery delivery, logistics and fulfillment, and financial services through the Gojek, Tokopedia and GoTo Financial platforms.",
-            "currency": "USD",
-            "already_activate_product": true,
-            "logo": {
-                "name": "3914a3c5-fc5b-49c1-999d-2e878290ea73",
-                "original_name": "pt_goto_gojek_tokopedia_business_unit_logo_final.png",
-                "mime_type": "image/png",
-                "size": 10535,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/3914a3c5-fc5b-49c1-999d-2e878290ea73"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-06-08T05:43:21+02:00",
-        "scopes": [
-            {
-                "scope": "https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594",
-                "scope_type": "mobile-application-ios",
-                "scope_type_name": "Mobile application IOS",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id",
-                "scope_type": "mobile-application-android",
-                "scope_type_name": "Mobile application Android",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "*.gopayapi.com",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "gopaymerchant.midtrans.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "mokapos.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "*.go-pay.co.id",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "api.midtrans.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "app.midtrans.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "www.midtrans.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.gaming.gopayapi.com",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.gofin.io",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.findaya.com",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.findaya.co.id",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            },
-            {
-                "scope": "*.gtflabs.io",
-                "scope_type": "wildcard",
-                "scope_type_name": "Wildcard",
-                "asset_value": "MEDIUM",
-                "report_count": null
-            }
-        ]
-    },
-    {
         "title": "Infomaniak Bug Bounty program",
         "slug": "infomaniak-bug-bounty-program",
         "country": "CH",
@@ -722,7 +19,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 2141,
+        "reports_count": 2143,
         "bounty_reward_min": 100,
         "bounty_reward_max": 7000,
         "scopes_count": 43,
@@ -751,7 +48,7 @@
         },
         "hunter_audience": null,
         "scopes_enabled": null,
-        "last_update_at": "2026-06-05T13:58:20+02:00",
+        "last_update_at": "2026-06-10T13:52:59+02:00",
         "scopes": [
             {
                 "scope": "ksuite.infomaniak.com",
@@ -1051,6 +348,709 @@
                 "scope": "hosting-ik.com",
                 "scope_type": "web-application",
                 "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            }
+        ]
+    },
+    {
+        "title": "Programme de prime aux bogues du Gouvernement du Qu\u00e9bec",
+        "slug": "programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
+        "country": "CA",
+        "activity_area": "Government",
+        "average_first_response_time": 2,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 567,
+        "bounty_reward_min": 50,
+        "bounty_reward_max": 3000,
+        "scopes_count": 2,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "1f9e2bda-45d4-4ba7-8e33-c6ee3e9709a2",
+            "original_name": "qc.png",
+            "mime_type": "image/png",
+            "size": 23634,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/1f9e2bda-45d4-4ba7-8e33-c6ee3e9709a2"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "MCN",
+            "slug": "mcn",
+            "description": "Minist\u00e8re de la Cybers\u00e9curit\u00e9 et du Num\u00e9rique",
+            "currency": "USD",
+            "already_activate_product": true,
+            "logo": {
+                "name": "0116356e-4aab-4c4f-b4c1-6eae26592751",
+                "original_name": "6e03687c-424e-48f1-8df2-c13ba8afb8ca.png",
+                "mime_type": "image/png",
+                "size": 23634,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/0116356e-4aab-4c4f-b4c1-6eae26592751"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2026-06-10T09:31:54+02:00",
+        "scopes": [
+            {
+                "scope": "*.cyber.gouv.qc.ca/",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://auth-ywh.it.authentification.si.gouv.qc.ca/",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            }
+        ]
+    },
+    {
+        "title": "Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity",
+        "slug": "cybermalveillance-gouv-fr-sensibilization-prevention-and-support-in-terms-of-cybersecurity",
+        "country": "FR",
+        "activity_area": "Tech - Other",
+        "average_first_response_time": 1,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 223,
+        "bounty_reward_min": 50,
+        "bounty_reward_max": 2000,
+        "scopes_count": 1,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "4ea4666a-5d5a-4065-aec0-c6eaec917b94",
+            "original_name": "capture-d-ecran-de-2021-10-29-14-15-06.png",
+            "mime_type": "image/png",
+            "size": 4374,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/4ea4666a-5d5a-4065-aec0-c6eaec917b94"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "CYBERMALVEILLANCE.GOUV.FR",
+            "slug": "acyma",
+            "description": "Cybermalveillance.gouv.fr is an initiative of the French Government, launched in 2017, to respond to the uprising number of cyber-malicious-acts in France.",
+            "currency": "EUR",
+            "already_activate_product": true,
+            "logo": {
+                "name": "b1264f8e8151d994bb3e6df51e956357",
+                "original_name": "logo-acyma2.png",
+                "mime_type": "image/png",
+                "size": 19953,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/b1264f8e8151d994bb3e6df51e956357"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2026-06-09T12:07:55+02:00",
+        "scopes": [
+            {
+                "scope": "https://pprd.cybermalveillance.gouv.fr",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            }
+        ]
+    },
+    {
+        "title": "Swiss Post - E-Voting",
+        "slug": "swiss-post-evoting",
+        "country": "CH",
+        "activity_area": "Transportation",
+        "average_first_response_time": 1,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 1339,
+        "bounty_reward_min": 100,
+        "bounty_reward_max": 230000,
+        "scopes_count": 4,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "da96b57b-b30c-4c87-9f0f-661e7945d869",
+            "original_name": "Post_Logo_digital_RGB (1).png",
+            "mime_type": "image/png",
+            "size": 12204,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/da96b57b-b30c-4c87-9f0f-661e7945d869"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "Swiss Post",
+            "slug": "swiss-post",
+            "description": "Bug Bounty Post - Securing Digital Trust",
+            "currency": "EUR",
+            "already_activate_product": true,
+            "logo": {
+                "name": "6dc5820f-f66e-44f4-a34f-359295db4bc7",
+                "original_name": "Post_Logo_digital_RGB300.png",
+                "mime_type": "image/png",
+                "size": 3801,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/6dc5820f-f66e-44f4-a34f-359295db4bc7"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2026-06-08T14:21:21+02:00",
+        "scopes": [
+            {
+                "scope": "Source Code",
+                "scope_type": "other",
+                "scope_type_name": "Other",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "System Specification",
+                "scope_type": "other",
+                "scope_type_name": "Other",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "Scenarios with Special Bounties",
+                "scope_type": "other",
+                "scope_type_name": "Other",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "Protocol of the Swiss Post Voting System",
+                "scope_type": "other",
+                "scope_type_name": "Other",
+                "asset_value": "HIGH",
+                "report_count": null
+            }
+        ]
+    },
+    {
+        "title": "Pine Labs Bug Bounty Program",
+        "slug": "pine-labs-bug-bounty-program",
+        "country": "IN",
+        "activity_area": "Tech - Other",
+        "average_first_response_time": 1,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 607,
+        "bounty_reward_min": 0,
+        "bounty_reward_max": 1000,
+        "scopes_count": 22,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "599499f2-1770-4d00-8b67-9111cc6c55f2",
+            "original_name": "pinelabs_logo.png",
+            "mime_type": "image/png",
+            "size": 2368,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/599499f2-1770-4d00-8b67-9111cc6c55f2"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "Pine Labs Pvt Ltd",
+            "slug": "pine-labs-pvt-ltd",
+            "description": "Payment Services for Retail Merchant",
+            "currency": "USD",
+            "already_activate_product": true,
+            "logo": {
+                "name": "6e236e18-fa57-42d0-be2e-588038dd22cc",
+                "original_name": "pinelabs_logo.png",
+                "mime_type": "image/png",
+                "size": 2368,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/6e236e18-fa57-42d0-be2e-588038dd22cc"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2026-06-08T07:53:43+02:00",
+        "scopes": [
+            {
+                "scope": "https://billingserver.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "dashboard.pluralonline.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://lounge.pinelabs.com/loungeui/login",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://pinepgconsole.in:9099",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "analytics.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://myplutus.pinelabs.my",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "trm.pinepaymentsolutions.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://trm.pinelabs.ae",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://www.letspaylater.ph",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://credit.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz",
+                "scope_type": "mobile-application-android",
+                "scope_type_name": "Mobile application Android",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://emistores.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://www.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://www.pinelabs.my",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://www.pinelabs.ae",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://www.pinelabs.us",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "LOW",
+                "report_count": null
+            },
+            {
+                "scope": "https://board.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://nbs.pinelabs.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "https://api.pluralonline.com",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://api.pluralpay.in",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://pinepg.in",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://pluralcheckout.pinepg.in",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            }
+        ]
+    },
+    {
+        "title": "GOJEK - Public Bounty Program",
+        "slug": "gojek-bug-bounty-program",
+        "country": "ID",
+        "activity_area": "Tech - Other",
+        "average_first_response_time": 1,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": false,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 706,
+        "bounty_reward_min": 5,
+        "bounty_reward_max": 5000,
+        "scopes_count": 12,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "dde1545a-ae6f-4763-99ee-4bc41824d97c",
+            "original_name": "gojek_logo.png",
+            "mime_type": "image/png",
+            "size": 37450,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/dde1545a-ae6f-4763-99ee-4bc41824d97c"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "PT GoTo Gojek Tokopedia Tbk",
+            "slug": "pt-goto",
+            "description": "GoTo Group is the largest digital ecosystem in Indonesia, with a mission to \u201cempower progress\u201d by offering technology infrastructure and solutions that help everyone to access and thrive in the digital economy. GoTo\u2019s ecosystem comprises of on-demand transport, e-commerce, food and grocery delivery, logistics and fulfillment, and financial services through the Gojek, Tokopedia and GoTo Financial platforms.",
+            "currency": "USD",
+            "already_activate_product": true,
+            "logo": {
+                "name": "3914a3c5-fc5b-49c1-999d-2e878290ea73",
+                "original_name": "pt_goto_gojek_tokopedia_business_unit_logo_final.png",
+                "mime_type": "image/png",
+                "size": 10535,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/3914a3c5-fc5b-49c1-999d-2e878290ea73"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2026-06-08T05:43:25+02:00",
+        "scopes": [
+            {
+                "scope": "*.gojekapi.com",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "api.gojek.co.id",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://play.google.com/store/apps/details?id=com.gojek.app",
+                "scope_type": "mobile-application-android",
+                "scope_type_name": "Mobile application Android",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://apps.apple.com/id/app/gojek/id944875099",
+                "scope_type": "mobile-application-ios",
+                "scope_type_name": "Mobile application IOS",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "gofood.co.id",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "api.gobiz.co.id",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "*.gofood.co.id",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.gobiz.co.id",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "portal.gofoodmerchant.co.id",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "*.gojek.com",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.golabs.io",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.gofoodmerchant.co.id",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            }
+        ]
+    },
+    {
+        "title": "GoTo Financial - Public Bounty Program",
+        "slug": "goto-financial-public-bounty-program",
+        "country": "ID",
+        "activity_area": "Tech - Other",
+        "average_first_response_time": 1,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": false,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 584,
+        "bounty_reward_min": 5,
+        "bounty_reward_max": 7000,
+        "scopes_count": 14,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "7a85ff6f-bd79-4164-ac5b-99c179ad7e87",
+            "original_name": "gtf_logo.png",
+            "mime_type": "image/png",
+            "size": 31801,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/7a85ff6f-bd79-4164-ac5b-99c179ad7e87"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "PT GoTo Gojek Tokopedia Tbk",
+            "slug": "pt-goto",
+            "description": "GoTo Group is the largest digital ecosystem in Indonesia, with a mission to \u201cempower progress\u201d by offering technology infrastructure and solutions that help everyone to access and thrive in the digital economy. GoTo\u2019s ecosystem comprises of on-demand transport, e-commerce, food and grocery delivery, logistics and fulfillment, and financial services through the Gojek, Tokopedia and GoTo Financial platforms.",
+            "currency": "USD",
+            "already_activate_product": true,
+            "logo": {
+                "name": "3914a3c5-fc5b-49c1-999d-2e878290ea73",
+                "original_name": "pt_goto_gojek_tokopedia_business_unit_logo_final.png",
+                "mime_type": "image/png",
+                "size": 10535,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/3914a3c5-fc5b-49c1-999d-2e878290ea73"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2026-06-08T05:43:21+02:00",
+        "scopes": [
+            {
+                "scope": "https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594",
+                "scope_type": "mobile-application-ios",
+                "scope_type_name": "Mobile application IOS",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id",
+                "scope_type": "mobile-application-android",
+                "scope_type_name": "Mobile application Android",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "*.gopayapi.com",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "CRITICAL",
+                "report_count": null
+            },
+            {
+                "scope": "gopaymerchant.midtrans.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "mokapos.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "*.go-pay.co.id",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "api.midtrans.com",
+                "scope_type": "api",
+                "scope_type_name": "API",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "app.midtrans.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "www.midtrans.com",
+                "scope_type": "web-application",
+                "scope_type_name": "Web application",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.gaming.gopayapi.com",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.gofin.io",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.findaya.com",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.findaya.co.id",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
+                "asset_value": "MEDIUM",
+                "report_count": null
+            },
+            {
+                "scope": "*.gtflabs.io",
+                "scope_type": "wildcard",
+                "scope_type_name": "Wildcard",
                 "asset_value": "MEDIUM",
                 "report_count": null
             }
@@ -1625,7 +1625,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 1968,
+        "reports_count": 1969,
         "bounty_reward_min": 100,
         "bounty_reward_max": 4000,
         "scopes_count": 27,
@@ -1983,7 +1983,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 530,
+        "reports_count": 532,
         "bounty_reward_min": 50,
         "bounty_reward_max": 2000,
         "scopes_count": 6,
@@ -2078,7 +2078,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 404,
+        "reports_count": 405,
         "bounty_reward_min": 0,
         "bounty_reward_max": 10000,
         "scopes_count": 4,
@@ -2247,7 +2247,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 1478,
+        "reports_count": 1479,
         "bounty_reward_min": 50,
         "bounty_reward_max": 5000,
         "scopes_count": 9,
@@ -3747,7 +3747,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 553,
+        "reports_count": 554,
         "bounty_reward_min": 50,
         "bounty_reward_max": 15000,
         "scopes_count": 33,
@@ -4646,7 +4646,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 2312,
+        "reports_count": 2314,
         "bounty_reward_min": 50,
         "bounty_reward_max": 10000,
         "scopes_count": 11,
@@ -4776,7 +4776,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 550,
+        "reports_count": 551,
         "bounty_reward_min": 50,
         "bounty_reward_max": 2500,
         "scopes_count": 30,
@@ -5753,7 +5753,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 666,
+        "reports_count": 667,
         "bounty_reward_min": 0,
         "bounty_reward_max": 5000,
         "scopes_count": 13,
@@ -7552,7 +7552,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 208,
+        "reports_count": 209,
         "bounty_reward_min": 0,
         "bounty_reward_max": 3000,
         "scopes_count": 1,
