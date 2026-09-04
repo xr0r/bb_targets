@@ -19,7 +19,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 2561,
+        "reports_count": 2570,
         "bounty_reward_min": 50,
         "bounty_reward_max": 10000,
         "scopes_count": 9,
@@ -136,7 +136,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 635,
+        "reports_count": 638,
         "bounty_reward_min": 50,
         "bounty_reward_max": 3000,
         "scopes_count": 2,
@@ -204,7 +204,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 631,
+        "reports_count": 632,
         "bounty_reward_min": 50,
         "bounty_reward_max": 2000,
         "scopes_count": 6,
@@ -300,7 +300,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 291,
+        "reports_count": 292,
         "bounty_reward_min": 0,
         "bounty_reward_max": 3000,
         "scopes_count": 4,
@@ -382,7 +382,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 282,
+        "reports_count": 283,
         "bounty_reward_min": 50,
         "bounty_reward_max": 5000,
         "scopes_count": 7,
@@ -485,7 +485,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 280,
+        "reports_count": 282,
         "bounty_reward_min": 50,
         "bounty_reward_max": 1250,
         "scopes_count": 12,
@@ -623,7 +623,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 850,
+        "reports_count": 852,
         "bounty_reward_min": 50,
         "bounty_reward_max": 2500,
         "scopes_count": 31,
@@ -1032,7 +1032,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 5746,
+        "reports_count": 5750,
         "bounty_reward_min": null,
         "bounty_reward_max": null,
         "scopes_count": 1,
@@ -1514,7 +1514,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 3364,
+        "reports_count": 3369,
         "bounty_reward_min": 100,
         "bounty_reward_max": 7000,
         "scopes_count": 46,
@@ -2301,165 +2301,6 @@
         ]
     },
     {
-        "title": "Deezer Bug Bounty Program",
-        "slug": "deezer-bug-bounty-program-2019",
-        "country": "FR",
-        "activity_area": "CyberSec",
-        "average_first_response_time": 1,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 1151,
-        "bounty_reward_min": 0,
-        "bounty_reward_max": 2500,
-        "scopes_count": 15,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "5b12e9e0-3d7e-498e-be1a-6ca1178efdec",
-            "original_name": "ywh4.png",
-            "mime_type": "image/png",
-            "size": 73547,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/5b12e9e0-3d7e-498e-be1a-6ca1178efdec"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "Deezer",
-            "slug": "deezer",
-            "description": "The Deezer platform provides an innovative music streaming service that has attracted millions of users worldwide. Deezer lets them instantly play the music they want to hear and guarantees high-quality sound, diversification and personalized music curation.\r\n\r\nDeezer is committed to working with security experts across the world to stay up to date with the latest security techniques. If you have discovered a security issue that you believe we should know about, please let us know about it and we'll do our best to quickly correct the issue.",
-            "currency": "EUR",
-            "already_activate_product": true,
-            "logo": {
-                "name": "391a9d5c-3e5a-464c-a84f-6e9d013e21b7",
-                "original_name": "ywh sqare.png",
-                "mime_type": "image/png",
-                "size": 15291,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/391a9d5c-3e5a-464c-a84f-6e9d013e21b7"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2026-08-03T15:38:36+02:00",
-        "report_submission_cost": 2,
-        "scopes": [
-            {
-                "scope": "www.deezer.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "connect.deezer.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "api.deezer.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "payment.deezer.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://play.google.com/store/apps/details?id=deezer.android.app",
-                "scope_type": "mobile-application-android",
-                "scope_type_name": "Mobile application Android",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169",
-                "scope_type": "mobile-application-ios",
-                "scope_type_name": "Mobile application IOS",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "zen.deezer.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "wellbeing.deezer.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "wellbeing.dzcdn.net",
-                "scope_type": "other",
-                "scope_type_name": "Other",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://play.google.com/store/apps/details?id=com.deezer.zen",
-                "scope_type": "mobile-application-android",
-                "scope_type_name": "Mobile application Android",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355",
-                "scope_type": "mobile-application-ios",
-                "scope_type_name": "Mobile application IOS",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "account.deezer.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "pipe.deezer.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "ws.deezer.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "LOW",
-                "report_count": null
-            },
-            {
-                "scope": "upload.deezer.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "LOW",
-                "report_count": null
-            }
-        ]
-    },
-    {
         "title": "GoTo Financial - Public Bounty Program",
         "slug": "goto-financial-public-bounty-program",
         "country": "ID",
@@ -2479,7 +2320,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 776,
+        "reports_count": 777,
         "bounty_reward_min": 5,
         "bounty_reward_max": 5000,
         "scopes_count": 14,
@@ -2797,7 +2638,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 806,
+        "reports_count": 807,
         "bounty_reward_min": 50,
         "bounty_reward_max": 2500,
         "scopes_count": 5,
@@ -3712,7 +3553,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 565,
+        "reports_count": 566,
         "bounty_reward_min": 100,
         "bounty_reward_max": 4000,
         "scopes_count": 31,
@@ -4224,7 +4065,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 684,
+        "reports_count": 686,
         "bounty_reward_min": 0,
         "bounty_reward_max": 1000,
         "scopes_count": 22,
@@ -4858,7 +4699,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 2298,
+        "reports_count": 2299,
         "bounty_reward_min": 100,
         "bounty_reward_max": 4000,
         "scopes_count": 27,
@@ -5873,7 +5714,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 458,
+        "reports_count": 460,
         "bounty_reward_min": 50,
         "bounty_reward_max": 3000,
         "scopes_count": 8,
@@ -6643,7 +6484,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 793,
+        "reports_count": 795,
         "bounty_reward_min": 0,
         "bounty_reward_max": 5000,
         "scopes_count": 13,
@@ -6788,7 +6629,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 1035,
+        "reports_count": 1036,
         "bounty_reward_min": 50,
         "bounty_reward_max": 2000,
         "scopes_count": 12,
@@ -7338,7 +7179,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 173,
+        "reports_count": 174,
         "bounty_reward_min": 50,
         "bounty_reward_max": 5000,
         "scopes_count": 9,
@@ -7602,102 +7443,6 @@
                 "scope_type": "web-application",
                 "scope_type_name": "Web application",
                 "asset_value": "LOW",
-                "report_count": null
-            }
-        ]
-    },
-    {
-        "title": "Qwant",
-        "slug": "qwant",
-        "country": "FR",
-        "activity_area": "CyberSec",
-        "average_first_response_time": 2,
-        "type": "bug-bounty",
-        "status": "V",
-        "demo": false,
-        "public": true,
-        "bounty": true,
-        "gift": false,
-        "hall_of_fame": true,
-        "hacktivity": false,
-        "report_collaboration_active": true,
-        "pid": null,
-        "secured": false,
-        "disabled": false,
-        "vdp": false,
-        "archived": false,
-        "reports_count": 782,
-        "bounty_reward_min": 100,
-        "bounty_reward_max": 5000,
-        "scopes_count": 6,
-        "pentest_campaign_status": null,
-        "thumbnail": {
-            "name": "9a8f6b45-d126-4d6d-849a-5a4150718ba4",
-            "original_name": "qwant_logo.png",
-            "mime_type": "image/png",
-            "size": 17323,
-            "url": "https://cdn-yeswehack.com/program/thumbnail/9a8f6b45-d126-4d6d-849a-5a4150718ba4"
-        },
-        "event": null,
-        "business_unit": {
-            "name": "Qwant",
-            "slug": "qwant",
-            "description": "-",
-            "currency": "EUR",
-            "already_activate_product": true,
-            "logo": {
-                "name": "df3885d8917aeacecd89f509a981d3d1",
-                "original_name": "logo-qwant.png",
-                "mime_type": "image/png",
-                "size": 27246,
-                "url": "https://cdn-yeswehack.com/business-unit/logo/df3885d8917aeacecd89f509a981d3d1"
-            }
-        },
-        "hunter_audience": null,
-        "scopes_enabled": null,
-        "last_update_at": "2024-10-17T14:51:57+02:00",
-        "report_submission_cost": 2,
-        "scopes": [
-            {
-                "scope": "www.qwant.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "api.qwant.com",
-                "scope_type": "api",
-                "scope_type_name": "API",
-                "asset_value": "CRITICAL",
-                "report_count": null
-            },
-            {
-                "scope": "s.qwant.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "s1.qwant.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "s2.qwant.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "qwantjunior.com",
-                "scope_type": "web-application",
-                "scope_type_name": "Web application",
-                "asset_value": "CRITICAL",
                 "report_count": null
             }
         ]
